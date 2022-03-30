@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TutorialJetPackCompose</string>
+    <string name="add_title">Adicionar</string>
+    <string name="name_hint">Digite o seu nome</string>
+    <string name="email_hint">Coloque o seu e-mail</string>
+</resources>
